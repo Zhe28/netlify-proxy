@@ -1,5 +1,5 @@
 [[redirects]]
 from = "/*"
-to = "https://home.hzer.xyz"
+to = "https://home.hzer.xyz:5244"
 status = 200
 force = true

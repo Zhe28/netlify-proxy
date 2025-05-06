@@ -1,5 +1,5 @@
 [[redirects]]
 from = "/alist/*"
-to = "http://home.hzer.xyz:5244/alist/:splat"
+to = "https://home.hzer.xyz:8080/alist/:splat"
 status = 200
 force = true
